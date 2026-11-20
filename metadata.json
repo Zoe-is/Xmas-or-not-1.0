@@ -1,0 +1,6 @@
+{
+  "name": "Santa's Worldwide Christmas Delivery!",
+  "description": "A 3D interactive Christmas adventure maze game where Santa delivers presents and collects cookies across 6 iconic cities before returning to the North Pole.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
